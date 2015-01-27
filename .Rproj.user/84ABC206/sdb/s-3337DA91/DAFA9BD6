@@ -1,0 +1,17 @@
+{
+    "contents" : "library(XML)\n\n",
+    "created" : 1422379920507.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "2402638481",
+    "id" : "DAFA9BD6",
+    "lastKnownWriteTime" : 25896191786221678,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
