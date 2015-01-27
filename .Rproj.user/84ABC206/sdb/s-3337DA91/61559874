@@ -1,0 +1,16 @@
+{
+    "contents" : "daily_release_calendar.Rproj",
+    "created" : 1422381562382.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2684354810",
+    "id" : "61559874",
+    "lastKnownWriteTime" : 1422381576,
+    "path" : "~/scripts/R/daily_release_calendar/.gitignore",
+    "project_path" : ".gitignore",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "text"
+}
